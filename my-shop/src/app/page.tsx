@@ -368,6 +368,7 @@ const App: React.FC = () => {
         </div>
 
         {/* Icons */}
+        {/* Icons */}
         <div className="flex items-center rtl:space-x-reverse rtl:space-x-4">
           <button className="p-2 text-gray-600 hover:text-teal-600 transition rounded-full hover:bg-gray-100">
             <User size={24} />
